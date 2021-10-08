@@ -1,6 +1,5 @@
 $primary-blue: #0079FF;
 $secondary-red: #F74646;
-$hover-background: #60ABFF;
 $img-moon:url("../assets/icon-moon.svg?fill=#222731");
 $img-sun: url("../assets/icon-sun.svg?fill=#FFFFFF");
 
@@ -180,7 +179,7 @@ img {
 	border-radius: 10px;
 	&:hover {
 		cursor: pointer;
-		background-color: $hover-background;
+		background-color: #60ABFF;
 	}
 }
 .error__message {
