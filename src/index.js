@@ -1,6 +1,6 @@
 import { OCTOCAT_API, GITHUB_API } from './js/const';
 import './js/theme';
-import './css/style.css';
+import './styles/main.scss';
 
 
 const formEl = document.querySelector('.js-form');
