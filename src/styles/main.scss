@@ -180,7 +180,7 @@ img {
 	border-radius: 10px;
 	&:hover {
 		cursor: pointer;
-		background-color: var(--hover-background);
+		background-color: $hover-background;
 	}
 }
 .error__message {
